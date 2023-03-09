@@ -12,6 +12,14 @@
 </main>
 
 <footer>
-  <p>&copy;2023 AMPM</p>
+  <p>
+    &copy;2023 <a
+      href="https://github.com/ampmonteiro/vite-svelte-mpa"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      AMPM
+    </a>
+  </p>
   <p>Powered by: Svelte || Developed with: Vite</p>
 </footer>
